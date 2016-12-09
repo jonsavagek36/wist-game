@@ -1,0 +1,35 @@
+
+
+body {
+  background-color: green;
+  color: white;
+  font-family: sans-serif;
+  font-size: 24px;
+}
+
+.center {
+  margin: auto;
+  width: 50%;
+  align-content: center;
+}
+
+.cardImg {
+  max-width: 10%%;
+  max-height: 10%;
+  margin: none;
+  padding: 5px;
+  float: left;
+}
+
+#table {
+  height: 200px;
+}
+
+#player-hand {
+  display: inline;
+}
+
+#start-hand {
+  height: 100px;
+  align-self: center;
+}

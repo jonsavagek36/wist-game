@@ -1,0 +1,14 @@
+
+
+shuffle cards:
+
+https://deckofcardsapi.com/api/deck/new/shuffle/?deck_count=1
+
+response:
+
+{
+    "success": true,
+    "deck_id": "3p40paa87x90",
+    "shuffled": true,
+    "remaining": 52
+}
